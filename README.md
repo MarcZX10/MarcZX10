@@ -22,7 +22,7 @@ func main() {
 	marc := Dev{
 		User:    "MarcZX10", // formerly MarcZX100
 		Since:   2019,
-		Now:     []string{"AnyPS5", "MimOS", "MimOffice", "MapGarraf", "lmw"},
+		Now:     []string{"AnyPS5", "MimOS", "MimOffice", "Manolo", "MapGarraf", "lmw"},
 		Stack:   []string{"C++", "Go", "TypeScript", "JavaScript", "Python", "Lua"},
 		Desktop: "MimOS (Arch + KDE Plasma)",
 	}
@@ -83,6 +83,21 @@ A community PWA for the Vilanova i la Geltrú ↔ Tarragona bus. Riders can choo
 A command-line client for your own LinkedIn account: profile, feed and publishing posts. It's a single static binary with no browser automation. It mimics Chromium's TLS/HTTP2 fingerprint (same JA4) and paces itself like a human.
 
 **Go** · [📖 Docs](https://marczx10.github.io/LinkedinMechaWarrior/)
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 🗺️ Manolo
+<a href="https://nekokoneko.org/manolo"><img src="https://nekokoneko.org/banner.jpg" alt="Manolo" width="100%" /></a>
+
+A Discord bot and website for Twin Harbor Interactive (formerly Bytro) strategy games: **Supremacy 1914**, **Call of War**, **Iron Order 1919** and **Conflict of Nations**. It renders game maps, makes videos of how matches unfold and tracks player and match stats. The bot and the site run together in a single Node.js process. I've been building it since 2023.
+
+**Node.js · discord.js · Express · EJS · MongoDB · canvas · sharp · FFmpeg · Chart.js**
+
+<a href="https://nekokoneko.org/manolo"><img src="https://img.shields.io/badge/web-nekokoneko.org%2Fmanolo-5865F2?style=flat-square&logo=discord&logoColor=white" alt="nekokoneko.org/manolo" /></a>
+<img src="https://img.shields.io/badge/repo-private-30363d?style=flat-square&logo=github" alt="Private repo" />
 
 </td>
 </tr>
