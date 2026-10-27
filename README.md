@@ -155,6 +155,16 @@ A Discord bot and website for Twin Harbor Interactive (formerly Bytro) strategy 
   <a href="https://www.youtube.com/watch?v=plB0K0DROFs&ab_channel=MisterAce"><img src="https://trophy.ryglcloud.net/?username=MarcZX10&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=-1" alt="Trophies" /></a>
 </p>
 
+### 🏗️ Contributions (3D view)
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcZX10/MarcZX10/main/profile-3d-contrib/profile-night-green.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MarcZX10/MarcZX10/main/profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution graph" src="https://raw.githubusercontent.com/MarcZX10/MarcZX10/main/profile-3d-contrib/profile-night-green.svg" />
+  </picture>
+</p>
+
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MarcZX10/MarcZX10/output/github-snake-dark.svg" />
