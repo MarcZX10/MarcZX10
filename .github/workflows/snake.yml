@@ -1,4 +1,4 @@
-name: Serpiente de contribuciones
+name: Contribution snake
 
 on:
   schedule:
