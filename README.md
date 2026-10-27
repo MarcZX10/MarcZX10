@@ -73,16 +73,33 @@ A command-line LinkedIn client for your own account. It's a single static binary
 <tr><td>2024</td><td><a href="https://github.com/MarcZX10/mastermind">mastermind</a></td><td>The board game, written in Python.</td></tr>
 <tr><td>2023</td><td><a href="https://github.com/MarcZX10/editorjsonpy">editorjsonpy</a></td><td>A small JSON editor I made to practise Python.</td></tr>
 <tr><td>2022</td><td><a href="https://github.com/MarcZX10/marczx100.github.io">marczx100.github.io</a></td><td>My old personal website.</td></tr>
-<tr><td>2020</td><td><a href="https://github.com/MarcZX10/pulposting-publico">Pulposting</a></td><td>My first big project, a Discord bot. More about it below.</td></tr>
+<tr><td>2020</td><td><a href="https://github.com/MarcZX10/pulposting-publico">Pulposting</a></td><td>My first big project, a Discord bot that reached version 27.</td></tr>
 </table>
 
 &nbsp;
 
-### A bit of history
+### Tech stack
 
-- Pulposting reached version 27. Back then I didn't use branches, so almost every version has its own repository.
-- Manolo started on 21 June 2023. One of my favourite milestones came in June 2024, when it drew a full coloured map by itself for the first time. Getting the province borders right took a whole day.
-- This account used to be called MarcZX100.
+<sub><b>LANGUAGES</b></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,go,ts,js,py,java,lua,bash&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,c,go,ts,js,py,java,lua,bash&theme=light" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,go,ts,js,py,java,lua,bash&theme=dark" alt="cpp,c,go,ts,js,py,java,lua,bash" />
+</picture>
+
+<sub><b>WEB &amp; BACKEND</b></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css,sqlite,mongodb,php&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css,sqlite,mongodb,php&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css,sqlite,mongodb,php&theme=dark" alt="react,vite,nodejs,express,html,css,sqlite,mongodb,php" />
+</picture>
+
+<sub><b>SYSTEMS &amp; TOOLS</b></sub>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode&theme=dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode&theme=dark" alt="linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode" />
+</picture>
 
 &nbsp;
 
