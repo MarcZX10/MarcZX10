@@ -1,17 +1,17 @@
 ### Hi, I'm Marc
 
-I mostly write C++, Go and TypeScript, and I have a soft spot for projects that probably shouldn't work: PS5 games running natively on Linux, a Discord bot that draws strategy-game maps, a live tracker for a bus nobody tracks. I've been at it since 2019.
+I'm a developer who mostly writes C++, Go and TypeScript. I started programming in 2019 with Discord bots, and these days I work on PS5 game compatibility for Linux, a Linux distro, and a bot for strategy games.
 
 &nbsp;
 
-### What I'm up to
+### What I'm working on
 
 <table>
 <tr>
 <td width="72" align="center"><a href="https://github.com/boykopovar/AnyPS5"><img src="assets/icons/anyps5.png" width="52" alt="AnyPS5" /></a></td>
 <td>
 <b><a href="https://github.com/boykopovar/AnyPS5">AnyPS5</a></b><br />
-PS5 executables running natively on Linux and Windows, no emulator involved. I live in the system libraries, one function at a time.<br />
+Runs PS5 executables natively on Linux and Windows, without emulation. I mainly work on the system libraries.<br />
 <sub>C++ · CMake · Vulkan</sub>
 </td>
 </tr>
@@ -19,7 +19,7 @@ PS5 executables running natively on Linux and Windows, no emulator involved. I l
 <td width="72" align="center"><a href="https://mimoslinux.org"><img src="assets/icons/mimos.png" width="52" alt="MimOS" /></a></td>
 <td>
 <b><a href="https://mimoslinux.org">MimOS</a></b> &amp; <b><a href="https://github.com/MarcZX10/MimOffice">MimOffice</a></b><br />
-An Arch-based KDE Plasma distro made in Spain, plus its office suite, a Calligra fork. I make MimOffice look like MimOS, package it six different ways and keep its CI happy.<br />
+A Linux distro based on Arch with KDE Plasma, made in Spain, and its office suite, a fork of Calligra. I take care of MimOffice's branding, its packages in six formats and its CI.<br />
 <sub>C++ · Qt · CMake · GitHub Actions</sub>
 </td>
 </tr>
@@ -27,7 +27,7 @@ An Arch-based KDE Plasma distro made in Spain, plus its office suite, a Calligra
 <td width="72" align="center"><a href="https://nekokoneko.org/manolo"><img src="assets/icons/manolo.png" width="52" alt="Manolo" /></a></td>
 <td>
 <b><a href="https://nekokoneko.org/manolo">Manolo</a></b><br />
-Discord bot and website for Supremacy 1914, Call of War, Iron Order 1919 and Conflict of Nations. It draws the maps, makes the videos and keeps the stats. The repo is private; Manolo isn't.<br />
+A Discord bot and website for Supremacy 1914, Call of War, Iron Order 1919 and Conflict of Nations. It renders game maps, creates videos and tracks stats. The code is private, but the bot is public.<br />
 <sub>Node.js · discord.js · Express · MongoDB · canvas · FFmpeg</sub>
 </td>
 </tr>
@@ -35,7 +35,7 @@ Discord bot and website for Supremacy 1914, Call of War, Iron Order 1919 and Con
 <td width="72" align="center"><a href="https://github.com/MarcZX10/MapGarraf"><img src="assets/icons/mapgarraf.png" width="52" alt="MapGarraf" /></a></td>
 <td>
 <b><a href="https://github.com/MarcZX10/MapGarraf">MapGarraf</a></b><br />
-A live map for the Vilanova ↔ Tarragona bus. The operator doesn't publish one, so the riders do.<br />
+A live map for the Vilanova ↔ Tarragona bus. The operator doesn't publish bus positions, so riders share their GPS instead.<br />
 <sub>React · Leaflet · Express · SQLite</sub>
 </td>
 </tr>
@@ -43,7 +43,7 @@ A live map for the Vilanova ↔ Tarragona bus. The operator doesn't publish one,
 <td width="72" align="center"><a href="https://github.com/MarcZX10/LinkedinMechaWarrior"><img src="assets/icons/lmw.png" width="52" alt="lmw" /></a></td>
 <td>
 <b><a href="https://github.com/MarcZX10/LinkedinMechaWarrior">lmw</a></b><br />
-LinkedIn, minus the website. One static binary for your terminal. Full name: LinkedIn Mecha Warrior. No regrets.<br />
+A command-line LinkedIn client for your own account. It's a single static binary, with no browser automation.<br />
 <sub>Go</sub>
 </td>
 </tr>
@@ -51,28 +51,28 @@ LinkedIn, minus the website. One static binary for your terminal. Full name: Lin
 
 &nbsp;
 
-### Before I knew better
+### Earlier projects
 
 <table>
-<tr><td>2026</td><td><a href="https://github.com/MarcZX10/cow-calc">cow-calc</a></td><td>Battle calculator for Call of War. Lent a hand on a fork.</td></tr>
-<tr><td>2026</td><td><a href="https://github.com/MarcZX10/trash_classifier">trash_classifier</a></td><td>Teaching a model to sort rubbish, at HackUPC.</td></tr>
-<tr><td>2024</td><td><a href="https://github.com/MarcZX10/mastermind">mastermind</a></td><td>The board game, in Python.</td></tr>
-<tr><td>2023</td><td><a href="https://github.com/MarcZX10/editorjsonpy">editorjsonpy</a></td><td>A JSON editor I wrote to learn Python. Its own README admits I wasn't sure what it was.</td></tr>
-<tr><td>2022</td><td><a href="https://github.com/MarcZX10/marczx100.github.io">marczx100.github.io</a></td><td>My old corner of the internet.</td></tr>
-<tr><td>2020</td><td><a href="https://github.com/MarcZX10/pulposting-publico">Pulposting</a></td><td>The Discord bot where it all started. See below.</td></tr>
+<tr><td>2026</td><td><a href="https://github.com/MarcZX10/cow-calc">cow-calc</a></td><td>A battle calculator for Call of War. I contributed to a fork.</td></tr>
+<tr><td>2026</td><td><a href="https://github.com/MarcZX10/trash_classifier">trash_classifier</a></td><td>A waste classifier trained with Teachable Machine, built at HackUPC 2026.</td></tr>
+<tr><td>2024</td><td><a href="https://github.com/MarcZX10/mastermind">mastermind</a></td><td>The board game, written in Python.</td></tr>
+<tr><td>2023</td><td><a href="https://github.com/MarcZX10/editorjsonpy">editorjsonpy</a></td><td>A small JSON editor I made to practise Python.</td></tr>
+<tr><td>2022</td><td><a href="https://github.com/MarcZX10/marczx100.github.io">marczx100.github.io</a></td><td>My old personal website.</td></tr>
+<tr><td>2020</td><td><a href="https://github.com/MarcZX10/pulposting-publico">Pulposting</a></td><td>My first big project, a Discord bot. More about it below.</td></tr>
 </table>
 
 &nbsp;
 
-### Some lore
+### A bit of history
 
-- Pulposting made it to v27, and almost every version got its own repository. I had not discovered branches yet.
-- Manolo was born on 21 June 2023. A year later I spent an entire day teaching it to find province borders by itself. When it drew its first map in colour, a Discord channel heard about it in capital letters.
-- This account used to be MarcZX100. I dropped a zero; nothing else changed.
+- Pulposting reached version 27. Back then I didn't use branches, so almost every version has its own repository.
+- Manolo started on 21 June 2023. One of my favourite milestones came in June 2024, when it drew a full coloured map by itself for the first time. Getting the province borders right took a whole day.
+- This account used to be called MarcZX100.
 
 &nbsp;
 
-### The numbers
+### Stats
 
 <p align="center">
   <picture>
