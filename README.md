@@ -6,26 +6,61 @@ I write software, mostly C++, Go and TypeScript. Lately that means getting PS5 g
 
 ### currently
 
-**[AnyPS5](https://github.com/boykopovar/AnyPS5)** — runs PS5 executables natively on Linux and Windows, no emulator involved. I spend most of my time in the system libraries.
-<br /><sub>C++ · CMake · Vulkan</sub>
-
-**[MimOS](https://mimoslinux.org)** & **[MimOffice](https://github.com/MarcZX10/MimOffice)** — an Arch-based KDE Plasma distro made in Spain, and its office suite, a Calligra fork. I look after MimOffice's branding, packaging and CI.
-<br /><sub>C++ · Qt · CMake · GitHub Actions</sub>
-
-**[Manolo](https://nekokoneko.org/manolo)** — a Discord bot and website for Supremacy 1914, Call of War, Iron Order 1919 and Conflict of Nations. Maps, videos, stats. The repo is private, the bot isn't.
-<br /><sub>Node.js · discord.js · Express · MongoDB · canvas · FFmpeg</sub>
-
-**[MapGarraf](https://github.com/MarcZX10/MapGarraf)** — a live map for the Vilanova ↔ Tarragona bus, built from riders' GPS, because the operator doesn't publish one.
-<br /><sub>React · Leaflet · Express · SQLite</sub>
-
-**[lmw](https://github.com/MarcZX10/LinkedinMechaWarrior)** — LinkedIn from the terminal. One static binary, no browser.
-<br /><sub>Go</sub>
+<table>
+<tr>
+<td width="72" align="center"><a href="https://github.com/boykopovar/AnyPS5"><img src="assets/icons/anyps5.png" width="52" alt="AnyPS5" /></a></td>
+<td>
+<b><a href="https://github.com/boykopovar/AnyPS5">AnyPS5</a></b><br />
+Runs PS5 executables natively on Linux and Windows, no emulator involved. I spend most of my time in the system libraries.<br />
+<sub>C++ · CMake · Vulkan</sub>
+</td>
+</tr>
+<tr>
+<td width="72" align="center"><a href="https://mimoslinux.org"><img src="assets/icons/mimos.png" width="52" alt="MimOS" /></a></td>
+<td>
+<b><a href="https://mimoslinux.org">MimOS</a></b> &amp; <b><a href="https://github.com/MarcZX10/MimOffice">MimOffice</a></b><br />
+An Arch-based KDE Plasma distro made in Spain, and its office suite, a Calligra fork. I look after MimOffice's branding, packaging and CI.<br />
+<sub>C++ · Qt · CMake · GitHub Actions</sub>
+</td>
+</tr>
+<tr>
+<td width="72" align="center"><a href="https://nekokoneko.org/manolo"><img src="assets/icons/manolo.png" width="52" alt="Manolo" /></a></td>
+<td>
+<b><a href="https://nekokoneko.org/manolo">Manolo</a></b><br />
+A Discord bot and website for Supremacy 1914, Call of War, Iron Order 1919 and Conflict of Nations. Maps, videos, stats. The repo is private, the bot isn't.<br />
+<sub>Node.js · discord.js · Express · MongoDB · canvas · FFmpeg</sub>
+</td>
+</tr>
+<tr>
+<td width="72" align="center"><a href="https://github.com/MarcZX10/MapGarraf"><img src="assets/icons/mapgarraf.png" width="52" alt="MapGarraf" /></a></td>
+<td>
+<b><a href="https://github.com/MarcZX10/MapGarraf">MapGarraf</a></b><br />
+A live map for the Vilanova ↔ Tarragona bus, built from riders' GPS, because the operator doesn't publish one.<br />
+<sub>React · Leaflet · Express · SQLite</sub>
+</td>
+</tr>
+<tr>
+<td width="72" align="center"><a href="https://github.com/MarcZX10/LinkedinMechaWarrior"><img src="assets/icons/lmw.png" width="52" alt="lmw" /></a></td>
+<td>
+<b><a href="https://github.com/MarcZX10/LinkedinMechaWarrior">lmw</a></b><br />
+LinkedIn from the terminal. One static binary, no browser.<br />
+<sub>Go</sub>
+</td>
+</tr>
+</table>
 
 &nbsp;
 
 ### before that
 
-[Pulposting](https://github.com/MarcZX10/pulposting-publico), a Discord bot that went through 25-odd versions · [cow-calc](https://github.com/MarcZX10/cow-calc) · [editorjsonpy](https://github.com/MarcZX10/editorjsonpy) · [mastermind](https://github.com/MarcZX10/mastermind) · [trash_classifier](https://github.com/MarcZX10/trash_classifier) · [an old website](https://github.com/MarcZX10/marczx100.github.io)
+<table>
+<tr><td>2026</td><td><a href="https://github.com/MarcZX10/cow-calc">cow-calc</a></td><td>A battle calculator for Call of War. I helped out on a fork.</td></tr>
+<tr><td>2026</td><td><a href="https://github.com/MarcZX10/trash_classifier">trash_classifier</a></td><td>A waste classifier trained with Teachable Machine at HackUPC.</td></tr>
+<tr><td>2024</td><td><a href="https://github.com/MarcZX10/mastermind">mastermind</a></td><td>The board game, in Python.</td></tr>
+<tr><td>2023</td><td><a href="https://github.com/MarcZX10/editorjsonpy">editorjsonpy</a></td><td>A small JSON editor I wrote to learn Python.</td></tr>
+<tr><td>2022</td><td><a href="https://github.com/MarcZX10/marczx100.github.io">marczx100.github.io</a></td><td>My old website.</td></tr>
+<tr><td>2020</td><td><a href="https://github.com/MarcZX10/pulposting-publico">Pulposting</a></td><td>A Discord bot that went through 25-odd versions. Where it all started.</td></tr>
+</table>
 
 &nbsp;
 
