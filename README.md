@@ -92,8 +92,8 @@ A command-line LinkedIn client for your own account. It's a single static binary
 </tr>
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=lua" width="36" height="36" alt="Lua" /><br />Lua</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=luau" width="36" height="36" alt="Luau" /><br />Luau</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=assembly" width="36" height="36" alt="Assembly" /><br />Assembly</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/luau/luau-original.svg" width="36" height="36" alt="Luau" /><br />Luau</td>
+<td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/arm.svg" width="36" height="36" alt="ARM Assembly" /><br />Assembly (ARM)</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=perl" width="36" height="36" alt="Perl" /><br />Perl</td>
 </tr>
 </table>
@@ -104,7 +104,7 @@ A command-line LinkedIn client for your own account. It's a single static binary
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" /><br />Bash</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="36" height="36" alt="PowerShell" /><br />PowerShell</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=handlebars" width="36" height="36" alt="Handlebars" /><br />Handlebars</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" width="36" height="36" alt="Handlebars" /><br />Handlebars</td>
 </tr>
 </table>
 <br clear="left" />
@@ -148,7 +148,7 @@ A command-line LinkedIn client for your own account. It's a single static binary
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=sqlite" width="36" height="36" alt="SQLite" /><br />SQLite</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /><br />MongoDB</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=mariadb" width="36" height="36" alt="MariaDB" /><br />MariaDB</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" width="36" height="36" alt="MariaDB" /><br />MariaDB</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" /><br />PostgreSQL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /><br />Redis</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /><br />Firebase</td>
@@ -159,8 +159,8 @@ A command-line LinkedIn client for your own account. It's a single static binary
 <h4>Maps &amp; Testing</h4>
 <table align="left" cellpadding="2" cellspacing="0">
 <tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=leaflet" width="36" height="36" alt="Leaflet" /><br />Leaflet</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=playwright" width="36" height="36" alt="Playwright" /><br />Playwright</td>
+<td align="center"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leaflet.svg" width="36" height="36" alt="Leaflet" /><br />Leaflet</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" width="36" height="36" alt="Playwright" /><br />Playwright</td>
 </tr>
 </table>
 <br clear="left" />
@@ -179,7 +179,7 @@ A command-line LinkedIn client for your own account. It's a single static binary
 <tr>
 <td align="center"><img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Vercel" /><br />Vercel</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /><br />VS Code</td>
-<td align="center"><img src="https://skillicons.dev/icons?i=glsl" width="36" height="36" alt="GLSL" /><br />GLSL</td>
+<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opengl/opengl-original.svg" width="36" height="36" alt="OpenGL logo for GLSL" /><br />GLSL</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=arduino" width="36" height="36" alt="Arduino" /><br />Arduino</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="36" height="36" alt="Raspberry Pi" /><br />Raspberry Pi</td>
 <td align="center"><img src="https://skillicons.dev/icons?i=md" width="36" height="36" alt="MkDocs / Markdown" /><br />MkDocs / Markdown</td>
