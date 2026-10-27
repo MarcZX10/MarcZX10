@@ -80,27 +80,245 @@ A command-line LinkedIn client for your own account. It's a single static binary
 
 ### Tech stack
 
-<sub><b>LANGUAGES</b></sub>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cpp,c,go,ts,js,py,java,lua,bash&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=cpp,c,go,ts,js,py,java,lua,bash&theme=light" />
-  <img src="https://skillicons.dev/icons?i=cpp,c,go,ts,js,py,java,lua,bash&theme=dark" alt="cpp,c,go,ts,js,py,java,lua,bash" />
-</picture>
+<h4>Languages</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=js" width="36" height="36" alt="JavaScript" /><br />
+  JavaScript
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=ts" width="36" height="36" alt="TypeScript" /><br />
+  TypeScript
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=go" width="36" height="36" alt="Go" /><br />
+  Go
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=cpp" width="36" height="36" alt="C++" /><br />
+  C++
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=c" width="36" height="36" alt="C" /><br />
+  C
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=py" width="36" height="36" alt="Python" /><br />
+  Python
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=java" width="36" height="36" alt="Java" /><br />
+  Java
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=lua" width="36" height="36" alt="Lua" /><br />
+  Lua
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=luau" width="36" height="36" alt="Luau" /><br />
+  Luau
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=assembly" width="36" height="36" alt="Assembly" /><br />
+  Assembly
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=perl" width="36" height="36" alt="Perl" /><br />
+  Perl
+</div>
+</div>
+</div>
 
-<sub><b>WEB &amp; BACKEND</b></sub>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css,sqlite,mongodb,php&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css,sqlite,mongodb,php&theme=light" />
-  <img src="https://skillicons.dev/icons?i=react,vite,nodejs,express,html,css,sqlite,mongodb,php&theme=dark" alt="react,vite,nodejs,express,html,css,sqlite,mongodb,php" />
-</picture>
+<h4>Shell &amp; Templates</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=bash" width="36" height="36" alt="Bash" /><br />
+  Bash
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=powershell" width="36" height="36" alt="PowerShell" /><br />
+  PowerShell
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=handlebars" width="36" height="36" alt="Handlebars" /><br />
+  Handlebars
+</div>
+</div>
+</div>
 
-<sub><b>SYSTEMS &amp; TOOLS</b></sub>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode&theme=light" />
-  <img src="https://skillicons.dev/icons?i=linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode&theme=dark" alt="linux,arch,qt,cmake,docker,git,githubactions,vercel,vscode" />
-</picture>
+<h4>Frontend</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=react" width="36" height="36" alt="React" /><br />
+  React
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=vue" width="36" height="36" alt="Vue" /><br />
+  Vue
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=nextjs" width="36" height="36" alt="Next.js" /><br />
+  Next.js
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=vite" width="36" height="36" alt="Vite" /><br />
+  Vite
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=electron" width="36" height="36" alt="Electron" /><br />
+  Electron
+</div>
+</div>
+</div>
 
+<h4>Web &amp; Styling</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=html" width="36" height="36" alt="HTML" /><br />
+  HTML
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=css" width="36" height="36" alt="CSS" /><br />
+  CSS
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=tailwind" width="36" height="36" alt="Tailwind CSS" /><br />
+  Tailwind CSS
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=materialui" width="36" height="36" alt="Material UI" /><br />
+  Material UI
+</div>
+</div>
+</div>
+
+<h4>Backend &amp; APIs</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=nodejs" width="36" height="36" alt="Node.js" /><br />
+  Node.js
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=express" width="36" height="36" alt="Express" /><br />
+  Express
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=php" width="36" height="36" alt="PHP" /><br />
+  PHP
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=spring" width="36" height="36" alt="Spring Boot" /><br />
+  Spring Boot
+</div>
+</div>
+</div>
+
+<h4>Databases &amp; Cloud</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=sqlite" width="36" height="36" alt="SQLite" /><br />
+  SQLite
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=mongodb" width="36" height="36" alt="MongoDB" /><br />
+  MongoDB
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=mariadb" width="36" height="36" alt="MariaDB" /><br />
+  MariaDB
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=postgres" width="36" height="36" alt="PostgreSQL" /><br />
+  PostgreSQL
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=redis" width="36" height="36" alt="Redis" /><br />
+  Redis
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=firebase" width="36" height="36" alt="Firebase" /><br />
+  Firebase
+</div>
+</div>
+</div>
+
+<h4>Maps &amp; Testing</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=leaflet" width="36" height="36" alt="Leaflet" /><br />
+  Leaflet
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=playwright" width="36" height="36" alt="Playwright" /><br />
+  Playwright
+</div>
+</div>
+</div>
+
+<h4>Systems &amp; Build Tools</h4>
+<div align="left">
+<div style="display: flex; flex-wrap: wrap; justify-content: flex-start; gap: 6px;">
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=linux" width="36" height="36" alt="Linux" /><br />
+  Linux
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=arch" width="36" height="36" alt="Arch Linux" /><br />
+  Arch Linux
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=qt" width="36" height="36" alt="Qt" /><br />
+  Qt
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=cmake" width="36" height="36" alt="CMake" /><br />
+  CMake
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=docker" width="36" height="36" alt="Docker" /><br />
+  Docker
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=git" width="36" height="36" alt="Git" /><br />
+  Git
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=githubactions" width="36" height="36" alt="GitHub Actions" /><br />
+  GitHub Actions
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=vercel" width="36" height="36" alt="Vercel" /><br />
+  Vercel
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=vscode" width="36" height="36" alt="VS Code" /><br />
+  VS Code
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=glsl" width="36" height="36" alt="GLSL" /><br />
+  GLSL
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=arduino" width="36" height="36" alt="Arduino" /><br />
+  Arduino
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=raspberrypi" width="36" height="36" alt="Raspberry Pi" /><br />
+  Raspberry Pi
+</div>
+<div align="center" style="width: 76px;">
+  <img src="https://skillicons.dev/icons?i=md" width="36" height="36" alt="MkDocs / Markdown" /><br />
+  MkDocs / Markdown
+</div>
+</div>
+</div>
 &nbsp;
 
 ### Stats
